@@ -1,0 +1,13 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+- Igor Panarin (@networksuperman)
+description: This collection contains a module for creating a content file and a playbook for testing the module
+license:
+- GPL-2.0-or-later
+license_file: ''
+tags: ['my_own_module']
+dependencies: {}
+
